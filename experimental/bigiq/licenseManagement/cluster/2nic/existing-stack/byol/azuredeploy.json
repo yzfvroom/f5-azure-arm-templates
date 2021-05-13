@@ -47,7 +47,6 @@
         },
         "bigIqVersion": {
             "allowedValues": [
-                "6.1.000000",
                 "8.0.001000"
             ],
             "defaultValue": "8.0.001000",
